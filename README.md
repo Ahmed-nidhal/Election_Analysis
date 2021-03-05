@@ -38,7 +38,7 @@ Denver: 82.8% (306,055)
 
 Arapahoe: 6.7% (24,801)
 
-###[Largest County Turnout: Denver](https://github.com/Ahmed-nidhal/Election_Analysis/blob/main/Resources/county%20with%20largest%20number%20of%20votes.PNG)
+###Largest County Turnout: Denver (https://github.com/Ahmed-nidhal/Election_Analysis/blob/main/Resources/county%20with%20largest%20number%20of%20votes.PNG)
 
 ### [Candidate Results:](https://github.com/Ahmed-nidhal/Election_Analysis/blob/main/Resources/candidate%20results.PNG)
 
