@@ -27,7 +27,7 @@ The following tasks are to be included in the completed election audit.
 
 ## Election-Audit Results:
 
-### [Total Votes: 369,711](https://github.com/Ahmed-nidhal/Election_Analysis/blob/main/Resources/Total%20Votes.PNG)
+### [Total Votes: 369,711] (https://github.com/Ahmed-nidhal/Election_Analysis/blob/main/Resources/Total%20Votes.PNG)
 
 
 ### County Results:
