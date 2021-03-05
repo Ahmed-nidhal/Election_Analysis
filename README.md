@@ -30,7 +30,7 @@ The following tasks are to be included in the completed election audit.
 ### [Total Votes: 369,711](https://github.com/Ahmed-nidhal/Election_Analysis/blob/main/Resources/Total%20Votes.PNG)
 
 
-### County Results:
+### [County Results:](https://github.com/Ahmed-nidhal/Election_Analysis/blob/main/Resources/county%20Results.PNG)
 
 Jefferson: 10.5% (38,855)
 
@@ -40,7 +40,7 @@ Arapahoe: 6.7% (24,801)
 
 Largest County Turnout: Denver
 
-### Candidate Results:
+### [Candidate Results:](https://github.com/Ahmed-nidhal/Election_Analysis/blob/main/Resources/candidate%20results.PNG)
 
 Charles Casper Stockham: 23.0% (85,213)
 
@@ -49,7 +49,7 @@ Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
 
 
-### Election Winner:
+### [Election Winner:](https://github.com/Ahmed-nidhal/Election_Analysis/blob/main/Resources/candidate%20won%20the%20election.PNG)
 
 Diana DeGette
 
